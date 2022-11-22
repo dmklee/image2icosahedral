@@ -1,4 +1,4 @@
-# Code for "Image to Icosahedral Projection for SO(3) Object Reasoning from Single-View Images"
+*Image to Icosahedral Projection for SO(3) Object Reasoning from Single-View Images*
 ---------------------------------------------------------------------
 [Paper](https://arxiv.org/abs/2207.08925) | [Project Page](https://dmklee.github.io/image2icosahedral/)
 
