@@ -1,0 +1,10 @@
+numpy
+trimesh[all]
+torch
+torchvision
+e2cnn
+pyrender
+scipy
+matplotlib
+pyembree
+tqdm
