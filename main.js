@@ -64,6 +64,16 @@ for (let i=0; i < associations.length; i++) {
 					.style('height', '70px')
 }
 
+
+var fig_div = body.append('div')
+	.attr('class', 'flex-row')
+fig_div
+	.append('img')
+	.style('margin', 'auto 0')
+	.attr('src', 'assets/figure1.png')
+	.attr('width', '600px')
+
+
 // abstract
 body.append('div')
 	.style('width', '80%')
