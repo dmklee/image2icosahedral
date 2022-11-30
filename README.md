@@ -3,8 +3,9 @@
 [Paper](https://arxiv.org/abs/2207.08925) | [Project Page](https://dmklee.github.io/image2icosahedral/)
 
 ---------------------------------------------------------------------
-This is the code for the paper "Image to Icosahedral Projection for SO(3) Object 
-Reasoning from Single-View Images" presented at NeurReps Workshop at NeurIPS 2022.
+This is the code for "Image to Icosahedral Projection for SO(3) Object 
+Reasoning from Single-View Images" presented at NeurReps Workshop at NeurIPS 2022 and to
+appear in PMLR Volume on Symmetry and Geometry.
 
 ## Installation
 The code was tested using Python 3.8, and the neural networks are instantiated with PyTorch.
