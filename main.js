@@ -92,8 +92,15 @@ body.append('div').style('line-height', 1.4).style('font-weight', 'bold').style(
 	.append('div').style('font-style', 'normal').append('a').attr('href', 'https://arxiv.org/abs/2207.08925').text('[Arxiv]')
 	
 make_header('Poster')
-body.append('div')
-	.text('Coming soon...')
+var fig_div = body.append('div')
+	.attr('class', 'flex-row')
+fig_div
+	.append('a')
+	.attr('href', 'assets/NeurReps_Poster.pdf')
+	.append('img')
+	.style('margin', 'auto 0')
+	.attr('src', 'assets/poster_preview.png')
+	.attr('height', '400px')
 
 
 make_header('Code')
